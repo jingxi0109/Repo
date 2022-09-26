@@ -1,6 +1,7 @@
 ### Git Store password
 git config --global credential.helper store
 
+git config --global user.email "jingxi@me.com
 
 ### Mindmap Note
 
