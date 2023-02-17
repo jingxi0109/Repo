@@ -13,4 +13,5 @@ B2-->C1(GoCode)
 B2-->C2(PCode)
 ```
 
-### CICD
+### CI/CD
+```
