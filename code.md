@@ -1,6 +1,8 @@
 ### Remote SSh
+```
+ssh jingxi@gitlab.omnicode.cn -p22022
+```
 
-ssh jingxi@gitlab.o
 
 ### Git Store password
 git config --global credential.helper store
