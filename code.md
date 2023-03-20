@@ -4,7 +4,7 @@ ssh jingxi@gitlab.omnicode.cn -p22022
 ```
 port scope 25000-25100/5000-5100
 
-internal with 
+internal with jingxi@10.10.10.103 of fedora linux
 
 
 
