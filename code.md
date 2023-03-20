@@ -8,6 +8,7 @@ internal with jingxi@10.10.10.103 of fedora linux
 
 
 
+
 ### Git Store password
 git config --global credential.helper store
 git config --global user.email "jingxi@me.com"
