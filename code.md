@@ -2,7 +2,7 @@
 ```
 ssh jingxi@gitlab.omnicode.cn -p22022
 ```
-port scope 25000-25100/
+port scope 25000-25100/5000-5100
 
 
 ### Git Store password
