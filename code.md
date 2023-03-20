@@ -2,7 +2,7 @@
 ```
 ssh jingxi@gitlab.omnicode.cn -p22022
 ```
-
+port scope 
 
 ### Git Store password
 git config --global credential.helper store
