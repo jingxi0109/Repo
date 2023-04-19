@@ -8,7 +8,7 @@ fork仓库的地址和源仓库地址是独立的，我们clone的时候拉取�
 
             二、源仓库某个分支代码更新了，如何同步到本地仓库相应的分支
 
- ##       问题一：同步新分支到fork仓库
+       问题一：同步新分支到fork仓库
 
             1、首先我们先克隆fork仓库 git clone https://git.huawei.com/h30001960/pscloudalm.git
 
