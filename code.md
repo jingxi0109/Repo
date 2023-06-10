@@ -1,5 +1,5 @@
 ### oncode
-http://gitlab.omnicode.cn:30999/jingxi/oncode.git
+ghttp://gitlab.omnicode.cn:30999/jingxi/oncode.git 
 
 ### Remote SSh
 ```
